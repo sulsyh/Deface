@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#CodedBy Mr.B41B4L.X
-#WEBDAVdeface
+#CodedBy SulSyh
+#SulSyhDeface
 #JanganDiRecodeYaGayn:)
 #let'go cekidot :)
 
