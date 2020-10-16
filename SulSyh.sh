@@ -129,6 +129,7 @@ echo $ku"kalau website ga berubah, dan ga keluar"
 echo $ku"kata2 pemrograman berarti internet kamu "
 echo $ku"jelek                                   "
 echo $ku""
+echo kalau keluar (invalid host name) web udah gaada"
 echo $ku"terima kasih sudah pakai tools ini ♥️   "
 echo $me"========================================"
 exit
