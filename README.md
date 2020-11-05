@@ -1,13 +1,15 @@
 # Deface
 JANGAN RECODE YA BGST :)
-cara install 
-Dan pakai
+#Cara Install
+
 
 *pkg update && pkg upgrade
 
 *pkg install git 
 
-pkg install bash
+pkg install bash libcurl ruby
+
+gem install lolcat
 
 *cd
 
