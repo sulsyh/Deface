@@ -1,6 +1,7 @@
 # Deface
 JANGAN RECODE YA BGST :)
-#Cara Install
+
+•cara install
 
 
 *pkg update && pkg upgrade
@@ -20,3 +21,15 @@ gem install lolcat
 *sh bahan.sh
 
 *sh SulSyh.sh 
+
+• cara pakai 
+
+cd 
+
+cd deface
+
+sh SulSyh.sh
+
+
+
+note install dulu baru pakai
