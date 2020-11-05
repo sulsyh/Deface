@@ -1,12 +1,12 @@
 pkg update && pkg upgrade
-pkg install git
-pkg install python2
-pkg install figlet
-pkg install Ruby
-pkg install lolcat
+pkg install git figlet ruby libcurl curl
+
+
+
+
 gem install lolcat
-pkg install curl
-pip install termcolor
+pkg install bash
+pip install termcolor 
 clear
 figlet -f slant Suscses | lolcat
 echo "Selanjutnya Ketik sh SulSyh.sh"
