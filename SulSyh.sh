@@ -17,11 +17,11 @@ ku='\033[33;1m' #kuning
 
 clear
 cd /sdcard
-figlet -f pagga SulSyh Deface | lolcat
+figlet -f slant Sy Deface | lolcat
                      
       echo""
       echo $bi"  _____________________"
-      echo $bi" /                    /"$bi"|" $ku" contacts: 0882-9129-2181(WA) "
+      echo $bi" /                    /"$bi"|" $ku" contacts:+62 881-0256-13920(WA) "
       echo $bi"/____________________/"$bi" |" $pu" ========================"
        echo $bi"|" $ku"•Author: SulSyh   "    $bi"|" $bi"|" $ku" Me:xbcsgdz@gmail.com"
       echo $bi"|====================|"$bi" |" $pu" ========================"
