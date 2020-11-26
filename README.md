@@ -21,7 +21,9 @@ JANGAN RECODE YA BGST :)
 
  * `sh SulSyh.sh`
 
- * ```cara pakai ```
+```
+•cara pakai
+```
 
  * `cd`
 
